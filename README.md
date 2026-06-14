@@ -9,6 +9,12 @@
 - 📫 Reach me: kumarsuraj61857@gmail.com
 
 ## 🛠️ Skills
+Data Analytics
+• SQL
+• Excel
+• Power BI
+• Data Visualization
+• Data Cleaning
 
 ### Programming Languages
 - Java
@@ -51,23 +57,25 @@
 
 ---
 
-### 🌐 Prism Enterprises — Frontend Website
+  ## 📜 Certifications
 
-**Tech Stack:** HTML, CSS, JavaScript
-**Duration:** Oct 2025
-
-* Designed and developed a fully responsive business website with a modern user interface.
-* Optimized cross-device responsiveness and improved user experience across desktops, tablets, and mobile devices.
-* Collaborated within a team environment to enhance website performance and usability.
-* 
+- Big Data
+- Database Administration (Oracle)
+- Python Programming
+- C++ Programming
+- Flutter & Dart
+- Networking Essentials (Cisco) 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-1169&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-1169&show_icons=true&theme=default)
 
-## 🤝 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-1169&layout=compact) 
 
-- LinkedIn:linkedin.com/in/suraj-kumar-a2410032a
-- GitHub: https://github.com/Suraj-1169
+## 📫 Connect With Me
+
+- 📧 Email: kumarsuraj61857@gmail.com
+- 💼 LinkedIn: linkedin.com/in/suraj-kumar-a2410032a
+- 💻 GitHub: github.com/Suraj-1169
 
 ⭐ Thanks for visiting my profile!
