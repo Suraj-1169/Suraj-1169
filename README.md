@@ -1,6 +1,10 @@
 # Hi 👋, I'm Suraj Kumar
+Computer Science Engineer | QA & Software Testing | Data Analytics | AI/ML | Open to Work
 
-### Computer Science Engineer|Data analytics|QA Analyst | Software Testing Enthusiast
+## 👨‍💻 About Me
+Computer Science Engineering student passionate about Software Testing, Quality Assurance, Data Analytics, and AI/ML. I enjoy building real-world projects, testing applications, analyzing data, and solving problems using technology.
+
+🎯 Career Goal: Quality Analyst | Software Tester | Data Analyst | Associate Software Engineer
 
 - 🌱 Currently learning Selenium, API Testing, SQL and Automation Testing
 - 💻 Interested in AI/ML Data Analytics,Software Testing,and Automation
@@ -9,12 +13,25 @@
 - 📫 Reach me: kumarsuraj61857@gmail.com
 
 ## 🛠️ Skills
+Software Testing
+• Manual Testing
+• Functional Testing
+• Regression Testing
+• Bug Reporting
+• Test Case Design
+
 Data Analytics
 • SQL
 • Excel
 • Power BI
 • Data Visualization
 • Data Cleaning
+
+Tools
+• Git
+• GitHub
+• JIRA
+• Postman
 
 ### Programming Languages
 - Java
@@ -73,7 +90,6 @@ Data Analytics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-1169&layout=compact) 
 
 ## 📫 Connect With Me
-
 - 📧 Email: kumarsuraj61857@gmail.com
 - 💼 LinkedIn: linkedin.com/in/suraj-kumar-a2410032a
 - 💻 GitHub: github.com/Suraj-1169
