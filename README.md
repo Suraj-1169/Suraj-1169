@@ -67,7 +67,7 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: linkedin.com/in/suraj-kumar-a2410032a 
+- LinkedIn:linkedin.com/in/suraj-kumar-a2410032a
 - GitHub: https://github.com/Suraj-1169
 
 ⭐ Thanks for visiting my profile!
